@@ -1,0 +1,7 @@
+[env.production]
+name = "mitblr-club-api"
+workers_dev = true
+
+compatibility_date = "2023-08-30"
+
+route = "api.mitblr.club/*"
