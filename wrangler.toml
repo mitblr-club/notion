@@ -1,6 +1,6 @@
 [env.production]
 name = "mitblr-club-api"
-main = "src/index.ts"
+main = "./src/index.ts"
 workers_dev = true
 
 compatibility_date = "2023-08-30"
